@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_bt2">ActivityBT2</string>
+
+    <array name="arr">
+        <item>teo</item>
+        <item>ti</item>
+        <item>bin</item>
+    </array>
+</resources>
